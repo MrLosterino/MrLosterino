@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MrLosterino
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning Businessman for IT system management
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m a Businessman for IT-system management
 
 <!---
 MrLosterino/MrLosterino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
